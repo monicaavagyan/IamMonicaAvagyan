@@ -6,7 +6,7 @@
 
 
 
--    I have graduated with a Bachelor's degree in Computer Science from ASUE. Currently, I am working at the Foundation for Armenian Science and Technology (FAST), where I work on the Generation AI program..
+-    I have graduated with a Bachelor's degree in Computer Science from ASUE. Currently, I am working at the Foundation for Armenian Science and Technology (FAST), where I work on the Generation AI program.
 -    I am actively learning and gaining experience in machine learning and data science, while remaining open to new opportunities in these or related fields.
 -    Reach me through:  www.linkedin.com/in/monica-av   
 -    Fun fact: I love 🐵s, swimming🏊 and nail art💅.
@@ -43,5 +43,8 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <br>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=monica06-yan&label=Profile%20views&color=0e75b6&style=flat" alt="monica" /> </p>
+
 
 
